@@ -1,0 +1,13 @@
+
+
+<suite name="DemoWebShopHybridSuite">
+
+<test name="DemoShopHybridTest">
+
+<classes>
+<class name="tests.DemoWebShopTest"/>
+</classes>
+
+</test>
+
+</suite>
