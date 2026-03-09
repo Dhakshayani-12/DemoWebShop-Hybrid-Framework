@@ -141,4 +141,21 @@ testng.xml
 
 Right click → Run As → TestNG Suite
 
+
+
+
+## Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Product Search
+![Search](screenshots/search-product.png)
+
+### Add To Cart
+![Cart](screenshots/add-to-cart.png)
+
+### Order Confirmation
+![Order](screenshots/order-confirmation.png)
+
 Automation tests will start executing.
